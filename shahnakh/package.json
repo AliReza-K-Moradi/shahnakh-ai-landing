@@ -1,0 +1,8 @@
+{
+  "name": "shahnakh-bilingual-landing",
+  "version": "1.0.0-rc.1",
+  "private": true,
+  "description": "Bilingual AI-assisted textile landing page",
+  "scripts": {"test": "node tests/qa.cjs && node tests/geometry.cjs"},
+  "devDependencies": {"jsdom": "30.0.1"}
+}
